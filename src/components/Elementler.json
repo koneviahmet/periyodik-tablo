@@ -1,0 +1,867 @@
+[
+    {
+        "index": 1,
+        "kutleNumarasi": 1,
+        "sembol": "H",
+        "adi": "Hidrojen"
+        
+    },
+    {
+        "index": 2,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+    },
+    {
+        "index": 3,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+    },
+    {
+        "index": 4,
+        "kutleNumarasi": 2,
+        "sembol": "He",
+        "adi": "Helyum"
+        
+    },
+    {
+        "index": 5,
+        "kutleNumarasi": 3,
+        "sembol": "Li",
+        "adi": "Lityum"        
+    },
+    {
+        "index": 6,
+        "kutleNumarasi": 4,
+        "sembol": "Be",
+        "adi": "Berilyum"
+        
+    },
+    {
+        "index": 7,
+        "kutleNumarasi": 5,
+        "sembol": "B",
+        "adi": "Bor"
+        
+    },
+    {
+        "index": 8,
+        "kutleNumarasi": 6,
+        "sembol": "C",
+        "adi": "Karbon"
+        
+    },
+    {
+        "index": 9,
+        "kutleNumarasi": 7,
+        "sembol": "O",
+        "adi": "Azot"
+        
+    },
+    {
+        "index": 10,
+        "kutleNumarasi": 8,
+        "sembol": "O",
+        "adi": "Oksijen"
+        
+    },
+    {
+        "index": 11,
+        "kutleNumarasi": 9,
+        "sembol": "F",
+        "adi": "Flor"
+        
+    },
+    {
+        "index": 12,
+        "kutleNumarasi": 10,
+        "sembol": "Ne",
+        "adi": "Neon"
+        
+    },
+    {
+        "index": 13,
+        "kutleNumarasi": 11,
+        "sembol": "Na",
+        "adi": "Sodyum"
+        
+    },
+    {
+        "index": 14,
+        "kutleNumarasi": 12,
+        "sembol": "Mg",
+        "adi": "Magnezyum"
+        
+    },
+    {
+        "index": 15,
+        "kutleNumarasi": 13,
+        "sembol": "Al",
+        "adi": "Alüminyum"
+        
+    },
+    {
+        "index": 16,
+        "kutleNumarasi": 14,
+        "sembol": "Si",
+        "adi": "Silisyum"
+        
+    },
+    {
+        "index": 17,
+        "kutleNumarasi": 15,
+        "sembol": "P",
+        "adi": "Fosfor"
+        
+    },
+    {
+        "index": 18,
+        "kutleNumarasi": 16,
+        "sembol": "S",
+        "adi": "Kükürt"
+        
+    },
+    {
+        "index": 19,
+        "kutleNumarasi": 17,
+        "sembol": "Cl",
+        "adi": "Klor"
+        
+    },
+    {
+        "index": 20,
+        "kutleNumarasi": 18,
+        "sembol": "Ar",
+        "adi": "Argon"
+        
+    },
+    {
+        "index": 21,
+        "kutleNumarasi": 19,
+        "sembol": "K",
+        "adi": "Potasyum"
+        
+    },
+    {
+        "index": 22,
+        "kutleNumarasi": 20,
+        "sembol": "Ca",
+        "adi": "Kalsiyum"
+        
+    },
+    {
+        "index": 23,
+        "kutleNumarasi": 21,
+        "sembol": "SC",
+        "adi": "Skandiyum"
+        
+    },
+    {
+        "index": 24,
+        "kutleNumarasi": 22,
+        "sembol": "Ti",
+        "adi": "Titanyum"
+        
+    },
+    {
+        "index": 25,
+        "kutleNumarasi": 23,
+        "sembol": "V",
+        "adi": "Vanadyum"
+        
+    },
+    {
+        "index": 26,
+        "kutleNumarasi": 24,
+        "sembol": "Cr",
+        "adi": "Krom"
+        
+    },
+    {
+        "index": 27,
+        "kutleNumarasi": 25,
+        "sembol": "Mn",
+        "adi": "Mangan"
+        
+    },
+    {
+        "index": 28,
+        "kutleNumarasi": 26,
+        "sembol": "Fe",
+        "adi": "Demir"
+        
+    },
+    {
+        "index": 29,
+        "kutleNumarasi": 27,
+        "sembol": "Co",
+        "adi": "Kobalt"
+        
+    },
+    {
+        "index": 30,
+        "kutleNumarasi": 28,
+        "sembol": "Ni",
+        "adi": "Nikel"
+        
+    },
+    {
+        "index": 31,
+        "kutleNumarasi": 29,
+        "sembol": "Cu",
+        "adi": "Bakır"
+        
+    },
+    {
+        "index": 32,
+        "kutleNumarasi": 30,
+        "sembol": "Zn",
+        "adi": "Çinko"
+        
+    },
+    {
+        "index": 33,
+        "kutleNumarasi": 31,
+        "sembol": "Ga",
+        "adi": "Galyum"
+        
+    },
+    {
+        "index": 34,
+        "kutleNumarasi": 32,
+        "sembol": "Ge",
+        "adi": "Germanyum"
+        
+    },
+    {
+        "index": 35,
+        "kutleNumarasi": 33,
+        "sembol": "As",
+        "adi": "Arsenik"
+        
+    },
+    {
+        "index": 36,
+        "kutleNumarasi": 34,
+        "sembol": "Se",
+        "adi": "Selenyum"
+        
+    },
+    {
+        "index": 37,
+        "kutleNumarasi": 35,
+        "sembol": "Br",
+        "adi": "Brom"
+        
+    },
+    {
+        "index": 38,
+        "kutleNumarasi": 36,
+        "sembol": "Kr",
+        "adi": "Kripton"
+        
+    },
+    {
+        "index": 39,
+        "kutleNumarasi": 37,
+        "sembol": "Rb",
+        "adi": "Rubidyum"
+        
+    },
+    {
+        "index": 40,
+        "kutleNumarasi": 38,
+        "sembol": "Sr",
+        "adi": "Stronsiyum"
+        
+    },
+    {
+        "index": 41,
+        "kutleNumarasi": 39,
+        "sembol": "Y",
+        "adi": "İtriyum"
+        
+    },
+    {
+        "index": 42,
+        "kutleNumarasi": 40,
+        "sembol": "Zr",
+        "adi": "Zirkonyum"
+        
+    },
+    {
+        "index": 43,
+        "kutleNumarasi": 41,
+        "sembol": "Nb",
+        "adi": "Niobyum"
+        
+    },
+    {
+        "index": 44,
+        "kutleNumarasi": 42,
+        "sembol": "Mo",
+        "adi": "Molibden"
+        
+    },
+    {
+        "index": 45,
+        "kutleNumarasi": 43,
+        "sembol": "Tc",
+        "adi": "Teknesyum"
+        
+    },
+    {
+        "index": 46,
+        "kutleNumarasi": 44,
+        "sembol": "Ru",
+        "adi": "Rutenyum"
+        
+    },
+    {
+        "index": 47,
+        "kutleNumarasi": 45,
+        "sembol": "Ro",
+        "adi": "Rodyum"
+        
+    },
+    {
+        "index": 48,
+        "kutleNumarasi": 46,
+        "sembol": "Pd",
+        "adi": "Paladyum"
+        
+    },
+    {
+        "index": 49,
+        "kutleNumarasi": 47,
+        "sembol": "Ag",
+        "adi": "Gümüş"
+        
+    },
+    {
+        "index": 50,
+        "kutleNumarasi": 48,
+        "sembol": "Cd",
+        "adi": "Kadmiyum"
+        
+    },
+    {
+        "index": 51,
+        "kutleNumarasi": 49,
+        "sembol": "In",
+        "adi": "İndiyum"
+        
+    },
+    {
+        "index": 52,
+        "kutleNumarasi": 50,
+        "sembol": "Sn",
+        "adi": "Kalay"
+        
+    },
+    {
+        "index": 53,
+        "kutleNumarasi": 51,
+        "sembol": "Sb",
+        "adi": "Antimon"
+        
+    },
+    {
+        "index": 54,
+        "kutleNumarasi": 52,
+        "sembol": "Te",
+        "adi": "Tellür"
+        
+    },
+    {
+        "index": 55,
+        "kutleNumarasi": 53,
+        "sembol": "I",
+        "adi": "İyot"
+        
+    },
+    {
+        "index": 56,
+        "kutleNumarasi": 54,
+        "sembol": "Xe",
+        "adi": "Ksenon"
+        
+    },
+    {
+        "index": 57,
+        "kutleNumarasi": 55,
+        "sembol": "Cs",
+        "adi": "Sezyum"
+        
+    },
+    {
+        "index": 58,
+        "kutleNumarasi": 56,
+        "sembol": "Ba",
+        "adi": "Baryum"
+        
+    },
+    {
+        "index": 59,
+        "kutleNumarasi": 57,
+        "sembol": "La",
+        "adi": "Lantan"
+        
+    },
+    {
+        "index": 60,
+        "kutleNumarasi": 72,
+        "sembol": "Hf",
+        "adi": "Hafniyum"
+        
+    },
+    {
+        "index": 61,
+        "kutleNumarasi": 73,
+        "sembol": "Ta",
+        "adi": "Tantal"
+        
+    },
+    {
+        "index": 62,
+        "kutleNumarasi": 74,
+        "sembol": "W",
+        "adi": "Volfram"
+        
+    },
+    {
+        "index": 63,
+        "kutleNumarasi": 75,
+        "sembol": "Re",
+        "adi": "Renyum"
+        
+    },
+    {
+        "index": 64,
+        "kutleNumarasi": 76,
+        "sembol": "Os",
+        "adi": "Osmiyum"
+        
+    },
+    {
+        "index": 65,
+        "kutleNumarasi": 77,
+        "sembol": "Ir",
+        "adi": "İridyum"
+        
+    },
+    {
+        "index": 66,
+        "kutleNumarasi": 78,
+        "sembol": "Pt",
+        "adi": "Platin"
+        
+    },
+    {
+        "index": 67,
+        "kutleNumarasi": 79,
+        "sembol": "Au",
+        "adi": "Altın"
+        
+    },
+    {
+        "index": 68,
+        "kutleNumarasi": 80,
+        "sembol": "Hg",
+        "adi": "Cıva"
+        
+    },
+    {
+        "index": 69,
+        "kutleNumarasi": 81,
+        "sembol": "Tl",
+        "adi": "Talyum"
+        
+    },
+    {
+        "index": 70,
+        "kutleNumarasi": 82,
+        "sembol": "Pb",
+        "adi": "Kurşun"
+        
+    },
+    {
+        "index": 71,
+        "kutleNumarasi": 83,
+        "sembol": "Bi",
+        "adi": "Bizmut"
+        
+    },
+    {
+        "index": 72,
+        "kutleNumarasi": 84,
+        "sembol": "Po",
+        "adi": "Polonyum"
+        
+    },
+    {
+        "index": 73,
+        "kutleNumarasi": 85,
+        "sembol": "At",
+        "adi": "Astatin"
+        
+    },
+    {
+        "index": 74,
+        "kutleNumarasi": 86,
+        "sembol": "Rn",
+        "adi": "Radon"
+        
+    },
+    {
+        "index": 75,
+        "kutleNumarasi": 87,
+        "sembol": "Fr",
+        "adi": "Fransiyum"
+        
+    },
+    {
+        "index": 76,
+        "kutleNumarasi": 88,
+        "sembol": "Ra",
+        "adi": "Radyum"
+        
+    },
+    {
+        "index": 77,
+        "kutleNumarasi": 89,
+        "sembol": "Ac",
+        "adi": "Aktinyum"
+        
+    },
+    {
+        "index": 78,
+        "kutleNumarasi": 104,
+        "sembol": "Rf",
+        "adi": "Rutherfordiyum"
+        
+    },
+    {
+        "index": 79,
+        "kutleNumarasi": 105,
+        "sembol": "Db",
+        "adi": "Dubniyum"
+        
+    },
+    {
+        "index": 80,
+        "kutleNumarasi": 106,
+        "sembol": "Sg",
+        "adi": "Seaborgiyum"
+        
+    },
+    {
+        "index": 81,
+        "kutleNumarasi": 107,
+        "sembol": "Bh",
+        "adi": "Bohriyum"
+        
+    },
+    {
+        "index": 82,
+        "kutleNumarasi": 108,
+        "sembol": "Hs",
+        "adi": "Hassiyum"
+        
+    },
+    {
+        "index": 83,
+        "kutleNumarasi": 109,
+        "sembol": "Mt",
+        "adi": "Meitneriyum"
+        
+    },
+    {
+        "index": 84,
+        "kutleNumarasi": 110,
+        "sembol": "Ds",
+        "adi": "Darmstadtiyum"
+        
+    },
+    {
+        "index": 85,
+        "kutleNumarasi": 111,
+        "sembol": "Uuu",
+        "adi": "Ununnilyum"
+        
+    },
+    {
+        "index": 86,
+        "kutleNumarasi": 112,
+        "sembol": "Uub",
+        "adi": "Ununbiyum"
+        
+    },
+    {
+        "index": 87,
+        "kutleNumarasi": 113,
+        "sembol": "Uut",
+        "adi": "Ununtriyum"
+        
+    },
+    {
+        "index": 88,
+        "kutleNumarasi": 114,
+        "sembol": "Uuq",
+        "adi": "Ununkuadyum"
+        
+    },
+    {
+        "index": 89,
+        "kutleNumarasi": 115,
+        "sembol": "Uup",
+        "adi": "Ununpentiyum"
+        
+    },
+    {
+        "index": 90,
+        "kutleNumarasi": 116,
+        "sembol": "Uuh",
+        "adi": "Ununheksiyum"
+        
+    },
+    {
+        "index": 91,
+        "kutleNumarasi": 117,
+        "sembol": "Uus",
+        "adi": "Ununseptiyum"
+        
+    },
+    {
+        "index": 92,
+        "kutleNumarasi": 118,
+        "sembol": "Uuo",
+        "adi": "Ununoktiyum"
+        
+    },
+    {
+        "index": 93,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+        
+    },
+    {
+        "index": 94,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+        
+    },
+    {
+        "index": 95,
+        "kutleNumarasi": 58,
+        "sembol": "Ce",
+        "adi": "Seryum"
+        
+    },
+    {
+        "index": 96,
+        "kutleNumarasi": 59,
+        "sembol": "Pr",
+        "adi": "Praseodim"
+        
+    },
+    {
+        "index": 97,
+        "kutleNumarasi": 60,
+        "sembol": "Nd",
+        "adi": "Neodimyum"
+        
+    },
+    {
+        "index": 98,
+        "kutleNumarasi": 61,
+        "sembol": "Pm",
+        "adi": "Prometyum"
+        
+    },
+    {
+        "index": 99,
+        "kutleNumarasi": 62,
+        "sembol": "Sm",
+        "adi": "Samaryum"
+        
+    },
+    {
+        "index": 100,
+        "kutleNumarasi": 63,
+        "sembol": "Eu",
+        "adi": "Evropiyum"
+        
+    },
+    {
+        "index": 101,
+        "kutleNumarasi": 64,
+        "sembol": "Gd",
+        "adi": "Gadolinyum"
+        
+    },
+    {
+        "index": 102,
+        "kutleNumarasi": 65,
+        "sembol": "Tb",
+        "adi": "Terbiyum"
+        
+    },
+    {
+        "index": 103,
+        "kutleNumarasi": 66,
+        "sembol": "Dy",
+        "adi": "Disprozyum"
+        
+    },
+    {
+        "index": 104,
+        "kutleNumarasi": 67,
+        "sembol": "Ho",
+        "adi": "Holmiyum"
+        
+    },
+    {
+        "index": 105,
+        "kutleNumarasi": 68,
+        "sembol": "Er",
+        "adi": "Erbiyum"
+        
+    },
+    {
+        "index": 106,
+        "kutleNumarasi": 69,
+        "sembol": "Tm",
+        "adi": "Tulyum"
+        
+    },
+    {
+        "index": 107,
+        "kutleNumarasi": 70,
+        "sembol": "Yb",
+        "adi": "İterbiyum"
+        
+    },
+    {
+        "index": 108,
+        "kutleNumarasi": 71,
+        "sembol": "Lu",
+        "adi": "Lutetyum"
+        
+    },
+    {
+        "index": 109,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+        
+    },
+    {
+        "index": 110,
+        "kutleNumarasi": false,
+        "sembol": false,
+        "adi": false
+        
+    },
+    {
+        "index": 111,
+        "kutleNumarasi": 90,
+        "sembol": "Th",
+        "adi": "Toryum"
+        
+    },
+    {
+        "index": 112,
+        "kutleNumarasi": 91,
+        "sembol": "Pa",
+        "adi": "Protaktinyum"
+        
+    },
+    {
+        "index": 113,
+        "kutleNumarasi": 92,
+        "sembol": "U",
+        "adi": "Uranyum"
+        
+    },
+    {
+        "index": 114,
+        "kutleNumarasi": 93,
+        "sembol": "Np",
+        "adi": "Neptünyum"
+        
+    },
+    {
+        "index": 115,
+        "kutleNumarasi": 94,
+        "sembol": "Pu",
+        "adi": "Plütonyum"
+        
+    },
+    {
+        "index": 116,
+        "kutleNumarasi": 95,
+        "sembol": "Am",
+        "adi": "Amerikyum"
+        
+    },
+    {
+        "index": 117,
+        "kutleNumarasi": 96,
+        "sembol": "Cm",
+        "adi": "Küriyum"
+        
+    },
+    {
+        "index": 118,
+        "kutleNumarasi": 97,
+        "sembol": "Bk",
+        "adi": "Berkelyum"
+        
+    },
+    {
+        "index": 119,
+        "kutleNumarasi": 98,
+        "sembol": "Cf",
+        "adi": "Kaliforniyum"
+        
+    },
+    {
+        "index": 120,
+        "kutleNumarasi": 99,
+        "sembol": "Es",
+        "adi": "Aynştaynyum"
+        
+    },
+    {
+        "index": 121,
+        "kutleNumarasi": 100,
+        "sembol": "Fm",
+        "adi": "Fermiyum"
+        
+    },
+    {
+        "index": 122,
+        "kutleNumarasi": 101,
+        "sembol": "Md",
+        "adi": "Mendelevyum"
+        
+    },
+    {
+        "index": 123,
+        "kutleNumarasi": 102,
+        "sembol": "No",
+        "adi": "Nobelyum"
+        
+    },
+    {
+        "index": 124,
+        "kutleNumarasi": 103,
+        "sembol": "Lr",
+        "adi": "Lavrensiyum"
+        
+    }
+]
